@@ -21,7 +21,7 @@ body {
   margin-bottom: 50px;
 }
 
-.section-heading1 {
+.intro-text {
   color: rgba(105, 112, 119, 0.8);
   font-weight: 200;
   font-size: 1.2rem;
@@ -101,8 +101,8 @@ body {
     place-items: center;
   }
 
-  .section-heading1 {
-    font-weight: 400;
+  .intro-text {
+    font-weight: 300;
     font-size: 2.3rem;
     text-align: center;
   }
