@@ -95,6 +95,18 @@ body {
 
 
 /* ADDITIONAL STYLES */
+
+/* medium screens */
+.feature-cards-section {
+  display: grid;
+  row-gap: 30px;
+  max-width: 50rem;
+}
+
+
+
+/* large screens */
+
 @media (min-width: 64rem) {
 
   .main {
